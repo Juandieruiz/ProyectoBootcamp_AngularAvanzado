@@ -9,9 +9,15 @@ Este Proyecto ha sido generado y creado inicialmente por Juan Diego Gomez Ruiz, 
 - Convertirla en PWA (Progress Web Application)
 - Agregarle Redux
 
+# El proyecto esta actualmente desplegado, lo puedes encontrar en:
+
+- http://workedin.ga
+
+-- #Documentacion del Proyecto por Defecto
+
 # Empleados
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
 
